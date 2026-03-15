@@ -162,11 +162,3 @@ This project demonstrates the methodology but requires the following improvement
 - **CAFA:** Zhou et al., *The CAFA challenge reports improved protein function prediction and new functional annotations*, Genome Biology 2019
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-*Built by [Hamdan](https://github.com/psMDHamdan) · Contributions welcome!*
